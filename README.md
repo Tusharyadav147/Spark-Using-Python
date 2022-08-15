@@ -1,2 +1,2 @@
-﻿# pyspark-jupyter-notebook
-Spark with python on google colab.
+﻿# pyspark-jupyter-note
+Spark using python. SparkSQL, SparkMLlib, SparkRDD all basic actions and transformations operations.
